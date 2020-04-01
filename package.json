@@ -1,0 +1,30 @@
+{
+  "name": "jpeavler-first-node-package",
+  "version": "1.0.0",
+  "description": "My attempt at creating my first node package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpeavler/first-node-package.git"
+  },
+  "keywords": [
+    "Hello",
+    "World",
+    "First",
+    "Node",
+    "Package"
+  ],
+  "author": "Joshua Peavler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpeavler/first-node-package/issues"
+  },
+  "homepage": "https://github.com/jpeavler/first-node-package#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
